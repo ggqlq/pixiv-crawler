@@ -1,0 +1,4 @@
+{
+    "http": "http://your.proxy.server:port",
+    "https": "http://your.proxy.server:port"
+}
